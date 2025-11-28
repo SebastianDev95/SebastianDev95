@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sebastianvergara.png" alt="Banner de Perfil" width="100%" />
+  <img src="Sebastianvergara.png" alt="Banner de Perfil" width="70%" />
 </div>
 
 ---
