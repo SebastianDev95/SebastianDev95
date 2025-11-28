@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Bienvenido+al+Perfil+de+Sebastián" alt="Banner de Perfil" width="100%" />
+  <img src="Sebastianvergara.png" alt="Banner de Perfil" width="100%" />
 </div>
 
 ---
