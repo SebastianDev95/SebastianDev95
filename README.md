@@ -45,6 +45,5 @@ Me especializo en el **Desarrollo Web Integral**, disfrutando de cada paso del p
 ### 📬 Contáctame
 
 <p align="left">
-<a href="TU_LINKEDIN_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/-Sebastián-blue?style=flat-square&logo=Linkedin&logoColor=white&link=TU_LINKEDIN_AQUI" alt="Linkedin" height="25" width="100" /></a>
 <a href="mailto:TU_CORREO_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contáctame-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25" /></a>
 </p>
