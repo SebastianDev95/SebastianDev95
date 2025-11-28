@@ -45,5 +45,5 @@ Me especializo en el **Desarrollo Web Integral**, disfrutando de cada paso del p
 ### 📬 Contáctame
 
 <p align="left">
-<a href="mailto:TU_CORREO_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contáctame-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25" /></a>
+<a href="svergaras21@campusuninunez.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contáctame-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25" /></a>
 </p>
